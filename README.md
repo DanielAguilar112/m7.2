@@ -1,12 +1,10 @@
 # web-dev-starter
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+Fixed up blog website. Changed the navigation bar, made text wrap around image, displayed images in two column grid on right side.
 
 ## Getting Started
 
-To get started, clone this repository and run the following commands:
+Run website with live server
 
 ```bash
 npm install
